@@ -9,4 +9,4 @@ To build and customize my own service.
 - JS
     
 ## Project Results
-https://nalanidelarosa.z5.web.core.windows.net/
+https://nalanidelarosa.z5.web.core.windows.net/ (disabled)
